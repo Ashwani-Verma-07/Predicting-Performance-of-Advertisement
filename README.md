@@ -12,7 +12,7 @@ The effectiveness of particular advertisements has a significant influence on pu
 
 
 ## Goal 
-Main goal is to determine the accuracy of performance of various machine learning models like **Niave Bayes, Decision Tree, K-Nearest Neighbors** on whether the user is likely to click on the Ad or not.
+Main goal is to determine the accuracy of performance of various machine learning models like **Naive Bayes, Decision Tree, K-Nearest Neighbors** on whether the user is likely to click on the Ad or not.
 
 
 ## Proposed Model
